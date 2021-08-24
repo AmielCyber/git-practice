@@ -1,3 +1,3 @@
-# git-practice
+# Git Essentials/Git for Everybody
 
-Some new stuff in here.
+> This is a course to teach you how to use git everyday.
